@@ -11,10 +11,16 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^1.20.3",
+    "cookie-parser": "^1.4.7",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "gh-pages": "^6.3.0",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.10.1",
-    "nodemon": "^3.1.9"
+    "nodemailer": "^6.10.0",
+    "nodemon": "^3.1.9",
+    "validator": "^13.12.0"
   }
 }
